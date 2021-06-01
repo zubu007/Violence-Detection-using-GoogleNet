@@ -19,3 +19,10 @@
 /movie-model.h5
 /movie-weight-fold10.h5
 /raw_data_for_movie_model.npy
+/logs
+/Test_Hockey
+/Test_movie
+/Test_Raw
+/movie-model-sigmoid-main.h5
+/movie-model-softmax.h5
+/movie-model-softmax2.h5
